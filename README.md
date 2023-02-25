@@ -17,8 +17,7 @@ Stiftelsens formål er å styrke og videreutvikle arbeid innen IT sektoren i Nor
 - Fasilitere og tilby en arena for frivillig og åpen kompetanseutvikling innen IT fagene i Norge
 - Legge til rette for samarbeid på tvers av fagmiljøene
 - Fasilitere aktiviteter som genererer ny kunnskap på områder som er særlig viktige for IT bransjen i Norge
-- Styrke eksisterende fagmiljøer
-- Senke terskelen for etablering av nye fagmiljøer gjennom å tilby gode rammer for gjennomføring av kompetansedeling
+- Styrke eksisterende fagmiljøer, senke terskelen for etablering av nye fagmiljøer gjennom å tilby gode rammer for gjennomføring av kompetansedeling
 - Gjennom å støtte den viktigste arenaen for frivillig kompetanseutvikling ønsker Teknologihuset å bidra til at Norge skal 
 bli ledende innen kompetanseoppbygging og dermed styrke sin konkurransekraft mot det internasjonale IT markedet
 
