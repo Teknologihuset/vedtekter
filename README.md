@@ -37,7 +37,7 @@ ved sponsormidler fra bedrifter, organisasjoner og institusjoner.
 
 ## §6 Stiftelsens styrende organer
 
-Stiftelsens virksomhet ledes av et styre pa 5 - 7 medlemmer med eventuelt varamedlemmer. Styremedlemmene oppnevnes av stifterne, og det enkelte 
+Stiftelsens virksomhet ledes av et styre på 5 - 7 medlemmer med eventuelt varamedlemmer. Styremedlemmene oppnevnes av stifterne, og det enkelte 
 styremedlem og eventuelt varamedlem oppnevnes for en periode på to- 2- år.
 
 JavaBin og Macsimum Event AS oppnevner i utgangspunktet like mange styremedlemmer hver , men et avvik på ett styremedlem vil godtas. Av de 
