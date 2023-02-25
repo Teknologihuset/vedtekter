@@ -74,7 +74,7 @@ Vedtektsendringer, herunder endringer i formålet og oppløsning av stiftelsen, 
 styrets medlemmer. Dersom styret ikke er vedtaksført ved første gangs behandling, kan det innkalles til nytt styremøte og vedtak kan da gjores med 
 4/5 flertall blant de møtende.
 
-## §8 Opplesning av stiftelsen
+## §8 Oppløsning av stiftelsen
 Ved opplesning skal stiftelsens midler stilles tilrådighet for Barneavdelingen på Rikshospitalet
 
 
