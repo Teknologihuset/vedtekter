@@ -71,7 +71,7 @@ iverksatt for å fremme stiftelsens formål.
 
 ## §7 Endringer av vedtektene
 Vedtektsendringer, herunder endringer i formålet og oppløsning av stiftelsen, kan vedtas av styret. For gyldig vedtak kreves 4/5 flertall blant 
-styrets medlemmer. Dersom styret ikke er vedtaksført ved første gangs behandling, kan det innkalles til nytt styremøte og vedtak kan da gjores med 
+styrets medlemmer. Dersom styret ikke er vedtaksført ved første gangs behandling, kan det innkalles til nytt styremøte og vedtak kan da gjøres med 
 4/5 flertall blant de møtende.
 
 ## §8 Oppløsning av stiftelsen
