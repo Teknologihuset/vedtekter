@@ -75,7 +75,7 @@ styrets medlemmer. Dersom styret ikke er vedtaksført ved første gangs behandli
 4/5 flertall blant de møtende.
 
 ## §8 Oppløsning av stiftelsen
-Ved opplesning skal stiftelsens midler stilles tilrådighet for Barneavdelingen på Rikshospitalet
+Ved oppløsning skal stiftelsens midler stilles tilrådighet for Barneavdelingen på Rikshospitalet
 
 
 
