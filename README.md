@@ -1,4 +1,4 @@
-# VEDTEKTER - for stiftelsen Teknologilhuset
+# VEDTEKTER - for stiftelsen Teknologihuset
 
 ## §1 Stiftelsens navn
 Stiftelsens navn er Stiftelsen Teknologihuset
